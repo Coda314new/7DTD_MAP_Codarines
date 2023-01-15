@@ -1,0 +1,7 @@
+.idea
+*.pyc
+*.pyd
+*.spec
+dist/
+build/
+*.exe
